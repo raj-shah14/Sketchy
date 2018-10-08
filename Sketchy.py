@@ -39,4 +39,3 @@ class App():
         img.save('test.jpg')
 
 app = App()
-#app.mainloop()
